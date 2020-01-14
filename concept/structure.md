@@ -51,9 +51,9 @@ css 的模块化开发 Less/Sass/Stylus
     ui 测试（快照测试）: JEST // Enzyme
     项目集成测试： Selenium
 2.  自动化构建
-    a、基于任务打包工具，例如 Grunt 、Glup 。
-    b、基于模块化打包工具，例如 browserify、Webpack、rollup.js 。
-    c、整合型工具，例如 Yeoman、Fis、jdf 、athena、cooking 、weflow。
+    a. 基于任务打包工具，例如 Grunt 、Glup 。
+    b. 基于模块化打包工具，例如 browserify、Webpack、rollup.js 。
+    c. 整合型工具，例如 Yeoman、Fis、jdf 、athena、cooking 、weflow。
 3.  自动化部署(CI)
     jenkins/docker
 
